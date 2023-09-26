@@ -2,5 +2,7 @@
 
 Slides for Solus Packaging Videos
 
--Uses [Marp}(https://github.com/marp-team/marp)
+<<<<<<< HEAD
+-Uses [Marp](https://github.com/marp-team/marp)
+>>>>>>> d66c1fb (Update README.md)
 - Install the vscode extension
