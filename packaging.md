@@ -7,9 +7,10 @@ theme: default
 # Solus Packaging - Setup
 
 * Solus Help Docs: `help.getsol.us`
-* GitHub Account
-  * Creating an SSH key
-  * Authorizing `github-cli`
+* Switching repositories
+* Packager file
+* Installing pre-requisites
+* GitHub Account & authorizing `github-cli`
 * Clone & fork the Solus monorepo: `github.com/getsolus/packages`
   * Quick repository tour
 * Task running tool: `go-task` AKA `task`
