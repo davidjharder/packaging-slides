@@ -1,7 +1,7 @@
 ---
 marp: true
-
 theme: default
+size: 4:3
 ---
 
 # Solus Packaging - Setup
