@@ -19,7 +19,7 @@ size: 4:3
 * GitHub: Clone & fork the Solus monorepo: `github.com/getsolus/packages`
   * Quick repository tour
 * Task running tool: `go-task` AKA `task`
-* Help functions
+* Helper functions
 * Bump and build a test package
 
 ---
