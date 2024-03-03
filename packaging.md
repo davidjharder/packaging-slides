@@ -15,11 +15,11 @@ size: 4:3
 * Solus Help Docs: `help.getsol.us`
 * Switching repositories
 * Packager file
-* Installing pre-requisites
-* GitHub Account & authorizing `github-cli`
-* Clone & fork the Solus monorepo: `github.com/getsolus/packages`
+* Installing extra packages and setup
+* GitHub: Clone & fork the Solus monorepo: `github.com/getsolus/packages`
   * Quick repository tour
 * Task running tool: `go-task` AKA `task`
+* Help functions
 * Bump and build a test package
 
 ---
