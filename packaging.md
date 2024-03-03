@@ -2,9 +2,15 @@
 marp: true
 theme: default
 size: 4:3
+
 ---
 
-# Solus Packaging - Setup
+# Solus packaging: **Setup**
+![bg right 50%](Solus.svg)
+
+---
+
+# Solus packaging: **Setup**
 
 * Solus Help Docs: `help.getsol.us`
 * Switching repositories
@@ -18,7 +24,12 @@ size: 4:3
 
 ---
 
-# Solus Packaging - Building a New Package & Updating an Existing Package
+# Solus packaging: **Building a new package & updating an existing package**
+![bg right 50%](Solus.svg)
+
+---
+
+# Solus packaging: **Building a new package & updating an existing package**
 
 * Building a new package
   * Using the `go-task new -- packagename URL`
@@ -30,7 +41,12 @@ size: 4:3
 
 ---
 
-# Solus Packaging - Macros
+# Solus packaging: **Macros**
+![bg right 50%](Solus.svg)
+
+---
+
+# Solus packaging: Macros
 
 - What are macros & what does Solus provide
 - Identifying build systems
